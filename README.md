@@ -1,4 +1,4 @@
-edu APP-ANDROID PROGRAMMING (REACT NATIVE, hyGRAPH & gRAPH qL)![image](https://github.com/tanmayyjais/codeLearn/assets/120260825/8a7b8c29-a241-4474-ad7a-20e4a27619f1)
+![image](https://github.com/tanmayyjais/codeLearn/assets/120260825/8a7b8c29-a241-4474-ad7a-20e4a27619f1)
 
 
 React Native (also known as RN) is a popular JavaScript-based mobile app framework that allows you to build natively-rendered mobile apps for iOS and Android.
